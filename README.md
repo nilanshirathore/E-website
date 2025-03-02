@@ -1,22 +1,32 @@
 # E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
- 
- 
- 
-### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+This e-commerce website is designed to provide a seamless shopping experience for users. It features a clean and organized layout with multiple sections to display products, manage shopping carts, and provide detailed product descriptions.
+
+Key Features:
+
+Homepage (index.html):
+Serves as the main landing page.
+Displays featured products and categories.
+Provides navigation to other sections of the website.
+
+Shopping Cart (cart.html, cart.js):
+Allows users to view selected items.
+Enables item removal and quantity adjustments.
+Calculates total price dynamically.
+
+Product Content (content.html, content.js):
+Lists available products in different categories.
+Displays product images, names, and prices.
+
+Product Details (contentDetails.html, contentDetails.js):
+Shows detailed descriptions of selected products.
+Includes pricing, specifications, and purchasing options.
+
+Header and Footer (header.html, footer.html):
+Contains the navigation menu and branding elements.
+Provides quick access to essential links (home, cart, contact, etc.).
 
 
-
-### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
-
-
-
-### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
-
-
-
-### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+Technology Stack:
+Frontend: HTML, CSS, JavaScript
+Dynamic Functionality: JavaScript for cart operations and content updates
+Structure & Navigation: Modular design with separate files for different sections
